@@ -14,7 +14,7 @@ Software and Requirement:
 3. Tableau
 > Install Tableau Public
 
-Execution steps:
+Execution steps (Suggested weekly refresh):
 Step 1: Run Python program to consolidate news information and historical price information
 Step 2: Clean the data and add predicted values using MS Excel
 Step 3: Import the cleaned excel CSV to Tableau and the information visualized in Tabluea Public https://public.tableau.com/app/profile/jackiechu/viz/2022CETM46-PioneerGO-v1/Story1
